@@ -53,8 +53,10 @@ h1{
     text-align: center;
     font-size: 40px;
     color: violet;
-    width: 40%;
-    margin-left: 5% ;
-    padding: left 2%;
 
+
+}
+section{
+    height: 500px;
+    clear: both;
 }
